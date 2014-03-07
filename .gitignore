@@ -4,3 +4,13 @@ sites/*/settings*.php
 # Ignore paths that contain user-generated content.
 sites/*/files
 sites/*/private
+
+database backups/.htaccess
+
+database backups/UnitarianChurchofNorfolk-2014-03-07T16-38-46.mysql.gz
+
+database backups/UnitarianChurchofNorfolk-2014-03-07T16-38-46.mysql.gz.info
+
+database backups/test.txt
+
+openchurch-drupal-03-06-2014.tgz
