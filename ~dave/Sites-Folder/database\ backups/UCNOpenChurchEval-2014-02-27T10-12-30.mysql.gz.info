@@ -1,0 +1,8 @@
+filename = "UCNOpenChurchEval-2014-02-27T10-12-30"
+description = ""
+datestamp = "1393513956"
+generator = "Backup and Migrate (http://drupal.org/project/backup_migrate)"
+generatorversion = "7.x-2.x"
+sites[0][version] = "7.26"
+sites[0][name] = "UCN Open Church Eval"
+sites[0][url] = "http://localhost:8888/openchurch/"
